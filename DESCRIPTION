@@ -1,0 +1,18 @@
+Package: shrimpr
+Type: Package
+Version: 0.1.0
+Author: Aaron Bergman
+Maintainer: Aaron Bergman <aaronb50@gmail.com>
+Date: 2024-04-02
+Title: Dataframe Variable Name Cleaner
+Description: Provides a straightforward approach to cleaning variable names in dataframes, making them more readable and consistent by replacing punctuation and spaces with underscores, reducing consecutive underscores to one, and converting all characters to lowercase.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr (>= 1.0.0),
+    stringr (>= 1.4.0),
+    magrittr
+RoxygenNote: 7.2.1.9000
+Suggests:
+    testthat (>= 3.0.0)
