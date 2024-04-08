@@ -13,7 +13,7 @@ pkg(
     "htmltools", "devtools", "roxygen2", "quanteda", "quanteda.textmodels",
     "quanteda.textstats", 
      "quanteda.textplots", "readtext", "tuneR", "cowplot",
-    "ggpubr", "credentials", "minqa", "stringi", "RCurl", "googledrive", "fixest",
+    "credentials", "minqa", "stringi", "RCurl", "googledrive", "fixest",
     "dreamerr", "tokenizers", "xtable", "webshot2", "processx", "glmnet", "Rcpp",
     "xopen", "clipr", "reticulate", "plm", "lmtest", "speech", "audio", "arcgeocoder",
     "shrimpr")
